@@ -87,6 +87,7 @@ Maintained by [Smarfle](https://www.smarfle.com). Pull requests are welcome.
 ## Car wash
 
 - [International Carwash Association](https://www.carwash.org) - The car wash industry's trade association.
+- [Mobile detailing reply templates](https://github.com/cometrixshop-hash/mobile-detailing-reply-templates) - 20 free, copy-paste text replies for car detailers, from the first "how much?" message to booking confirmations, follow-ups and rebooks (CC0).
 
 ## Security and alarm
 
