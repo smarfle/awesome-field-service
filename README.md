@@ -32,6 +32,7 @@ Maintained by [Smarfle](https://www.smarfle.com). Pull requests are welcome.
 - [IRS standard mileage rates](https://www.irs.gov/tax-professionals/standard-mileage-rates) - The current cents-per-mile rate for business driving.
 - [OSHA small business](https://www.osha.gov/smallbusiness) - Free safety resources and the confidential on-site consultation program.
 - [OSHA heat exposure](https://www.osha.gov/heat-exposure) - Preventing heat illness for crews that work outside.
+- [Dispatch Math](https://dispatchmath.com/) - What field service software costs a crew of one office user and four technicians, read from each vendor's own price page, with a free monthly CSV.
 
 ## Pest control
 
